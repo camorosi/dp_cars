@@ -1,0 +1,14 @@
+HEAD: rds_log_90851e8
+rds_log_90851e8:
+  project_name: dp_cars
+  project_description: Cars data product
+  branch_name: us001
+  branch_description: User story 1
+  dp_name: dp-cars-us001
+  class:
+  - dp
+  - list
+  rds_file_sha1: 90851e87ab7563b266a9bb3ce1d0b45e4f9ff40b
+  rds_obj_sha1: e5239639b1fa46747c68a97ee027f3460d2a599a
+  pin_version: 0c71ffa
+  commit_description: First dp build
